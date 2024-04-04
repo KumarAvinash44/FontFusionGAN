@@ -1,0 +1,16 @@
+*.ttf
+*.png
+*.jpg
+*.pt
+**/*.ttf
+**/*.png
+**/*.jpg
+**/*.pt
+**/*.pyc
+*.pyc
+*.pdf
+**/*.pdf
+*.out
+**/*.out
+*.pth
+**/*.pth
